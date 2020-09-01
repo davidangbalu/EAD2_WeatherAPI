@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "01xi5w1vL2WekteYRJ3nV3EMDB3WR7QUc5R/o4a/grGLe/ktLyYS/8YLCuo928NUgH/8eVjkGCMVBdI9DKi6hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\ANDROID\\API_ANDROID\\WeatherAPI\\WeatherAPIClient\\WeatherAPIClient.iOS\\WeatherAPIClient.iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

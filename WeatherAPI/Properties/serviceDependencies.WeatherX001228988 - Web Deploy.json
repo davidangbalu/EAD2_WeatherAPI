@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroup')]/providers/Microsoft.Sql/servers/employeex00122898dbserver/databases/WeatherAPI_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionString/WeatherDB",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
